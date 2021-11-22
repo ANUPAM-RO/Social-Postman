@@ -1,0 +1,20 @@
+.container {
+    text-align: center;
+}
+input {
+    height: 30px;
+    width: 300px;
+    margin-bottom: 10px;
+    size: 100px;
+    font-size: 20px;
+}
+label {
+    margin-right: 10px;
+    font-size: 20px;
+}
+button {
+    color: blue;
+    height: 50px;
+    width: 100px;
+    font-size: 20px;
+}
